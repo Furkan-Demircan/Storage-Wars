@@ -71,6 +71,9 @@ Contributions are welcome! Please open an issue to discuss your changes before m
 4. Push to your branch (`git push origin feature/new-feature`).
 5. Open a pull request (PR).
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Contact
 
