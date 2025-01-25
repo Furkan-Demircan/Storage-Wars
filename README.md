@@ -81,8 +81,8 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` d
 
 Proje hakkında sorularınız veya önerileriniz için bizimle iletişime geçebilirsiniz:
 
-- **E-posta**: ornek@example.com
-- **GitHub**: [kullanici-adi](https://github.com/kullanici-adi)
+- **E-posta**: goooglenudle@gmail.com
+- **GitHub**: [Furkan-Demircan](https://github.com/Furkan-Demircan)
 
 ---
 
