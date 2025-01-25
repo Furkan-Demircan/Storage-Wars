@@ -2,6 +2,8 @@
 
 Storage Wars, açık artırma tabanlı bir oyun ve simülasyon yazılımıdır. Proje, depoların açık artırmayla satıldığı ve oyuncuların, botların (AI) ve çeşitli ürünlerin dahil olduğu bir sistem oluşturur. Oyuncular, açık artırmalarda teklif verir, ürünleri envanterlerine ekler ve ticaret yapabilir.
 
+[**Read this document in English**](./README_EN.md)
+
 ## Özellikler
 
 - **Depo Yönetimi**: Depolar oluşturulabilir, rastgele ürünlerle doldurulabilir ve açık artırmaya sunulabilir.
